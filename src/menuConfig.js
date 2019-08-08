@@ -61,6 +61,11 @@ const asideMenuConfig = [
       },
     ],
   },
+  {
+    name: '\u9879\u76EE\u5217\u8868',
+    path: '/project',
+    icon: 'home',
+  },
 ];
 
 export { headerMenuConfig, asideMenuConfig };
